@@ -1,7 +1,7 @@
 This tool was created to speed up the process of converting Xbox Game files into an XISO -which is usable on Xbox emulators.
 
-REQUIREMENTS:
-Xbox games need to be in a folder format like these:
+REQUIREMENT:
+Xbox games files need to be stored in folders with each game name:
 
 ![image](https://github.com/Vini-Frei/XBE2XISO/assets/106484637/4925fe89-d04a-428c-8921-f2b2ac554bd6)
 
