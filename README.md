@@ -6,7 +6,7 @@ This tool was created to speed up the process of converting Xbox Game files into
 
 XBE2XISO is a simple PowerShell tool that will convert your XBE files into the XISO format needed to run the game in Xemu.
 
-Please ensure you have both the exiso.exe which is an exe version of this https://github.com/XboxDev/extract-xiso and the XBE2XISO.exe. The exiso.exe file should be included in this tool’s folder.
+Please ensure you have both the exiso.exe which is an exe version of this https://github.com/XboxDev/extract-xiso and the XBE2XISO.exe. The exiso.exe file should be included in this zip file.
 
 Extract the folder files to its final location on your device and run the XBE2XISO.exe tool. You will see the following window pop up:
  ![image](https://github.com/user-attachments/assets/7ff9e58f-6f82-4962-ae02-3df6be503b3a)
