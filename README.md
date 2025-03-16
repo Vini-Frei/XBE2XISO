@@ -1,4 +1,4 @@
-This tool was created to speed up the process of converting Xbox 360 Game files into an XISO -which is usable on Xbox emulators.
+This tool was created to speed up the process of converting Xbox and Xbox360 Game files into an XISO -which is usable on Xbox emulators like Xemu.
 
 
 
@@ -15,10 +15,10 @@ The three text fields will need:
 
 1 – Click browse and select the exiso.exe file in the same folder as this tool.
 
-2 – Paste in or click browse to select the folder where your Xbox games are stored, your games should be separated into their own folders containing game files, if they are zip files extract them:
+2 – Paste in or click browse to select the folder where your Xbox games folders are stored, your games should be separated into their own folders containing game files and/or the .xbe file, if they are zip files extract them:
 
  ![image](https://github.com/user-attachments/assets/8131d90b-c9ff-47dc-a8cf-cd65a8efe283)
 
-3 – Paste it in or click browse to select the folder where you want the XISOs to be stored, these are the files you will launch from Xemu.
+3 – Paste it in or click browse to select the folder where you want the XISOs to be stored, these are the files you will launch from Xemu to play the game.
 
 Click submit, a new window will pop up for you to monitor progress.
