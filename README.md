@@ -1,4 +1,4 @@
-This tool was created to speed up the process of converting Xbox Game files into an XISO -which is usable on Xbox emulators.
+This tool was created to speed up the process of converting Xbox 360 Game files into an XISO -which is usable on Xbox emulators.
 
 
 
